@@ -1,7 +1,7 @@
 [![MasterHead](https://www.freepik.com/free-vector/website-development-banner_5467393.htm#query=coding%20banner&position=12&from_view=search)](https://github.com/OkungbowaGodspower)
 <h1 align="center">Hi 👋, I'm Okungbowa Godspower</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=okungbowagodspower&label=Profile%20views&color=0e75b6&style=flat" alt="okungbowagodspower" /> </p>
 
