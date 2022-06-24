@@ -1,4 +1,7 @@
-[![MasterHead] src="https://www.freepik.com/free-vector/programmer-s-workplace-writing-code-laptop_4016730.htm#query=banner%20for%20coding&position=13&from_view=search"](https://github.com/OkungbowaGodspower)
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
+
 <h1 align="center">Hi 👋, I'm Okungbowa Godspower</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -29,6 +32,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okungbowagodspower&show_icons=true&locale=en&layout=compact" alt="okungbowagodspower" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okungbowagodspower&show_icons=true&locale=en" alt="okungbowagodspower" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=okungbowagodspower&show_icons=true&locale=en" alt="okungbowaGodspower" /></p>
+
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=okungbowaGodspower&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=okungbowagodspower&" alt="okungbowagodspower" /></p>
