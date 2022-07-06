@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/ml_geepee" target="blank"><img src="https://img.shields.io/twitter/follow/ml_geepee?logo=twitter&style=for-the-badge" alt="ml_geepee" /></a> </p>
 
-- 🔭 I’m currently working on [Cleaning website](https://okungbowagodspower.github.io/kelviniv.com/)
+- 🔭 I’m currently working on [Something cool]
 
 - 🌱 I’m currently learning **Javascript**
 
