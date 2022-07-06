@@ -37,3 +37,11 @@
 <a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=okungbowaGodspower&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<hr />
+
+### **Thanks for checking out my GitHub Profile!** 🙏
+
+<br />
+
+![](https://ForTheBadge.com/images/badges/built-with-love.svg)
