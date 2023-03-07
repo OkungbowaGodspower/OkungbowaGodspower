@@ -34,9 +34,6 @@
 <img alt "w3school" height="36" width="40" src="https://yt3.googleusercontent.com/dW6to0x5Crmeh7yi-YPLcQRqVrBtx2BSh8eoKTJbE8NbjloQ0sqlmdszIlxokJU_97-ndOt_=s900-c-k-c0x00ffffff-no-rj">
 <img alt"mdn mozilla docs" height="36" width="40" src="https://cdn.neowin.com/news/images/uploaded/2022/03/1648072109_mdn_story.jpg"></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=okungbowagodspower&show_icons=true&locale=en&layout=compact" alt="okungbowagodspower" /></p>
-
-<p>&nbsp;<img align="center" padding="10" src="https://github-readme-stats.vercel.app/api?username=okungbowagodspower&show_icons=true&locale=en" alt="okungbowaGodspower" /></p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=challomark&theme=dark&background=000000)](https://git.io/streak-stats)
 
