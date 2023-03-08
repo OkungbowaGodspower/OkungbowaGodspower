@@ -21,6 +21,7 @@
 <a href="https://linkedin.com/in/okungbowa godspower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okungbowa godspower" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/geepee.000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/geepee.000" height="30" width="40" /></a>
 <a href="https://instagram.com/ml_geepee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ml_geepee" height="30" width="40" /></a>
+ <a href="https://okungbowagodspower.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="ml_geepee" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,6 +39,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=challomark&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  #### Hashnode Blog Posts
+
+<!-- HASHNODE:START -->
+- [Discovering-scanf in C](https://okungbowagodspower.hashnode.dev/discovering-scanf)
+<!-- HASHNODE:END -->
 
 <hr />
 
