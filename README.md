@@ -30,7 +30,6 @@
 <img alt="Git" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <img alt="GitHub" height="38" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img alt="Csharp" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img alt="React" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img alt "w3school" height="36" width="40" src="https://yt3.googleusercontent.com/dW6to0x5Crmeh7yi-YPLcQRqVrBtx2BSh8eoKTJbE8NbjloQ0sqlmdszIlxokJU_97-ndOt_=s900-c-k-c0x00ffffff-no-rj">
 <img alt"mdn mozilla docs" height="36" width="40" src="https://cdn.neowin.com/news/images/uploaded/2022/03/1648072109_mdn_story.jpg"></p>
 
