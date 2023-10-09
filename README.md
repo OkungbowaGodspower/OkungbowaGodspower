@@ -45,7 +45,7 @@
 
 <hr />
 
-### **Thanks for checking my GitHub profile!** 
+<!--### **Thanks for checking my GitHub profile!** -->
 
 <br />
 
