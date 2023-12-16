@@ -40,6 +40,7 @@
 
 <!-- HASHNODE:START -->
 - [Discovering-scanf in C](https://okungbowagodspower.hashnode.dev/discovering-scanf)
+- [What happens when you type "google.com" in your browser and press Enter?](https://okungbowagodspower.hashnode.dev/what-happens-when-you-type-googlecom-in-your-browser-and-press-enter)
 <!-- HASHNODE:END -->
 
 <hr />
